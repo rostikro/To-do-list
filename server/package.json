@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@dnd-kit/sortable": "^8.0.0",
+    "apollo-server-express": "^3.0.0",
+    "express": "^4.21.1",
+    "express-ws": "^5.0.2",
+    "graphql": "^16.9.0",
+    "graphql-ws": "^5.16.0",
+    "uuid": "^11.0.2",
+    "ws": "^8.18.0"
+  }
+}
